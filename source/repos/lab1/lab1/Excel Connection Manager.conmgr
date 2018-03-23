@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Excel Connection Manager"
+  DTS:DTSID="{E97C9D82-D17F-4138-B9E0-A6686B3029CE}"
+  DTS:CreationName="EXCEL">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Provider=Microsoft.Jet.OLEDB.4.0;Data Source=\\Mac\Home\Documents\Studia\HurtownieDanych\lab1\Sample - Superstore Sales (Excel).xls;Extended Properties=&quot;Excel 8.0;HDR=YES&quot;;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
